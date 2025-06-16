@@ -1,6 +1,8 @@
 streamlit
-numpy
 scikit-learn
-pandas
 joblib
+numpy
+pandas
+xgboost
+lightgbm
 imblearn
